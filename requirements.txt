@@ -1,3 +1,4 @@
 speedtest-cli
 python-twitter
 schedule
+python-dotenv
